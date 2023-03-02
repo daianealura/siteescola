@@ -1,3 +1,13 @@
- header {background-color: darkorchid; 
-color: darkgrey;}
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho {background-color: rgb(255, 2, 36); 
+color: rgba(0, 0, 0, 0.993);
+display: flex;
+justify-content: space-around;}
 .cabecalho-imagem{width: 10%;}
+.cabecalho-lista-itens{
+display: inline-block;
+margin: 0 16px;
+}

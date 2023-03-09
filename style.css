@@ -5,9 +5,18 @@
 .cabecalho {background-color: rgb(255, 2, 36); 
 color: rgba(0, 0, 0, 0.993);
 display: flex;
-justify-content: space-around;}
+justify-content: space-around;
+padding: 24px 0;}
 .cabecalho-imagem{width: 10%;}
 .cabecalho-lista-itens{
 display: inline-block;
 margin: 0 16px;
+padding:24px 0;
+font-size:24px;
 }
+h1
+{display: inline-block;
+    margin:0 16px;
+    padding:100px 0;
+    font-size: 40px;}
+

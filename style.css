@@ -7,7 +7,8 @@ color: rgba(0, 0, 0, 0.993);
 display: flex;
 justify-content: space-around;
 padding: 24px 0;}
-.cabecalho-imagem{width: 10%;}
+
+.cabecalho-imagem{width: 12%;}
 .cabecalho-lista-itens{
 display: inline-block;
 margin: 0 16px;
@@ -17,12 +18,24 @@ font-size:24px;
 h1
 {display: inline-block;
     margin:0 16px;
-    padding:100px 0;
+    padding: 100px;px 0;
     font-size: 40px;}
 
 .escola-imagem{ 
-    width: 10%;}
+    width:12%;}
 
 .escola{ 
-    background-image: linear-gradient(red,blue);}
+    background-image: linear-gradient(red,blue);
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+.escola-conteudo
+{width: 50%;}
 
+.escola-titulo
+{padding: 50px 30px;}
+.aluno-um{
+    width: 10%;
+}

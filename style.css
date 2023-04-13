@@ -47,7 +47,7 @@ padding: 24px 0;
     width: 10%;
 }
 .aluno-um {
-width: 8%;
+width: 20%;
 }
 .estudante-icone
 {width: 70px;}
@@ -57,7 +57,7 @@ text-align: center;
 }
 
 .aluno-dois{
-    width: 10%;
+    width: 30%;
     }
     .estudante-icone
     {width: 70px;}
@@ -73,5 +73,5 @@ padding: 50px 0;
 
     .estudante-todos{
 display: grid;
-grid-template-columns: 25% 25% 25% 25%;
-    }
+ grid-template-columns: 25% 25% 25% 25%;
+}
